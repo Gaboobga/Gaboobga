@@ -1,19 +1,21 @@
----
- <div id="header" align="left">
+<h1 align="center">👋 Hello there! , I'm Gabriel</h1>
 
-### Sobre mí :
-Me gusta resolver problemas con tecnología: desde interfaces web claras y responsivas, hasta dashboards y automatizaciones que ahorran tiempo.
-* Actualmente soy estudiante de Business Intelligence en el Tecnológico de Monterrey y estoy en formación como Web Developer (Front-end & Back-end) en TripleTen, construyendo proyectos reales y mejorando mi stack técnico. :telescope:
+<div id="header" align="left">
 
-* Desarrollo aplicaciones web con HTML, CSS (BEM) y JavaScript (ES6), integrando APIs y trabajando con Git/GitHub para control de versiones y despliegue en producción. :computer:
+### About me:
+I like solving problems with technology: from clean, responsive web interfaces to dashboards and automations that save time.
 
-* También tengo experiencia en analítica de datos con Python y R, y en la creación de dashboards (por ejemplo, en Streamlit) para convertir datos en insights accionables. :bar_chart:
+* I’m currently a **Business Intelligence** student at **Tecnológico de Monterrey** and training as a **Web Developer (Front-end & Back-end)** at **TripleTen**, building real projects and continuously expanding my technical stack. :telescope:
 
-* Estoy construyendo Posterum, una agencia enfocada en AI Automation, donde desarrollo flujos con n8n e integraciones para WhatsApp/Instagram/Facebook :robot:
+* I build web applications with **HTML, CSS (BEM), and JavaScript (ES6)**, integrating **APIs** and using **Git/GitHub** for version control and production deployment. :computer:
 
-* Siempre estoy aprendiendo y mejorando, me motiva resolver problemas y construir soluciones claras que unan producto, datos y automatización. :seedling:
+* I also have experience in **data analytics** with **Python and R**, and in building **dashboards** (for example, with **Streamlit**) to turn data into actionable insights. :bar_chart:
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/gabriel-chávez-09b2b9337)
+* I’m building **Posterum**, an **AI Automation** agency where I develop workflows with **n8n** and integrations for **WhatsApp/Instagram/Facebook**. :robot:
+
+* I’m always learning and improving—motivated by solving problems and building clear solutions that connect product, data, and automation. :seedling:
+
+* :mailbox: Want to connect? [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ch%C3%A1vez-09b2b9337)
 
 * :e-mail: gabochavezzz01@gmail.com
 
@@ -21,7 +23,7 @@ Me gusta resolver problemas con tecnología: desde interfaces web claras y respo
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Languages and tools:
 <div id="header" align="left">
   
    [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,postgres,github,nodejs,figma,gcp)](https://skillicons.dev)
