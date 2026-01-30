@@ -26,6 +26,6 @@ I like solving problems with technology: from clean, responsive web interfaces t
 ### :hammer_and_wrench: Languages and tools:
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,postgres,github,nodejs,figma,gcp)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,npm,nodejs,github,figma,gcp,postgres)](https://skillicons.dev)
 
 </div>
